@@ -13,8 +13,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <h3>Hi there I'm Sajib Sutradhar </h3>
 </div>
+  <h3>Hi there I'm Sajib Sutradhar </h3>
+  I strongly intend to deliver my skills and innovative ideas as a front-end developer. I want to work in a professional environment to cope up with the
+  
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
