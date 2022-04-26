@@ -1,7 +1,8 @@
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+![Profile views](https://gpvc.arturio.dev/sajibsd013)  
   <div id="badges">
   <a href="https://www.linkedin.com/in/sajibsd013L">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -40,22 +41,15 @@
   
 <br>
 
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajibsd013&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibsd013&layout=compact&theme=buefy&hide_border=true" /></a> 
+<div align="center"">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajibsd013)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sajibsd013&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sajibsd013)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sajibsd013)  
+
+
 </div>
-
-  
-<br>
-
-<!-- GitHub Readme Streak Stats - https://github.com/arnabxero/github-readme-streak-stats -->
-<div align="center">
-  <a href="https://github.com/sajibsd013?tab=repositories">
-   <img title="stats" alt="sajibsd013's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sajibsd013&theme=dark-metallian&hide_border=false"/>
-</a>
-</div>
-
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-  
-
-
-
