@@ -1,15 +1,12 @@
-### Hi there I'm Sajib  👋
+### Hi there I'm Sajib 
 
-### About Me
-
-I strongly intend to deliver my skills and innovative ideas as a Full stack developer. I want to work in a professional environment to cope up with the competitive world.
 
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/arnabxero/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/sajibsd013?tab=repositories">
-    <img title="stats" alt="sajibsd013's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sajibsd013&theme=light-metallian&hide_border=false"/>
+    <img title="stats" alt="sajibsd013's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sajibsd013&theme=dark-metallian&hide_border=false"/>
 	</p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -24,8 +21,6 @@ I strongly intend to deliver my skills and innovative ideas as a Full stack deve
   <br/>
   <br/>
 
-
-
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 
 
@@ -35,17 +30,3 @@ I strongly intend to deliver my skills and innovative ideas as a Full stack deve
 
 
 
-<!--
-**sajibsd013/sajibsd013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
