@@ -19,7 +19,7 @@
  
  I strongly intend to deliver my skills and innovative ideas as a front-end developer. I want to work in a professional environment to cope up with the competitive world...
   
-
+<br>
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -37,19 +37,15 @@
   
   
 </div>
-
-
+  
+<br>
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajibsd013&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibsd013&layout=compact&theme=buefy&hide_border=true" /></a> 
 </div>
 
-
-
-
-
-
-
+  
+<br>
 
 <!-- GitHub Readme Streak Stats - https://github.com/arnabxero/github-readme-streak-stats -->
 <div align="center">
