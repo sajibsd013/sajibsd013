@@ -14,8 +14,10 @@
   </a>
 </div>
 </div>
-  <h3>Hi there I'm Sajib Sutradhar </h3>
-  I strongly intend to deliver my skills and innovative ideas as a front-end developer. I want to work in a professional environment to cope up with the
+
+ ### Hi there I'm Sajib 👋 
+ 
+ I strongly intend to deliver my skills and innovative ideas as a front-end developer. I want to work in a professional environment to cope up with the competitive world...
   
 
 
@@ -38,21 +40,23 @@
 
 
 
-
-
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sajibsd013&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajibsd013&layout=compact&theme=buefy&hide_border=true" /></a> 
+</div>
+
+
+
 
 
 
 
 
 <!-- GitHub Readme Streak Stats - https://github.com/arnabxero/github-readme-streak-stats -->
-<p align="center">
+<div align="center">
   <a href="https://github.com/sajibsd013?tab=repositories">
    <img title="stats" alt="sajibsd013's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sajibsd013&theme=dark-metallian&hide_border=false"/>
 </a>
-</p>
+</div>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   
