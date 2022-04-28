@@ -4,13 +4,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/sajibsd013)  
   <div id="badges">
-  <a href="https://www.linkedin.com/in/sajibsd013L">
+  <a href="https://www.linkedin.com/in/sajibsd013L" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/sajibsd013">
+  <a href="https://www.facebook.com/sajibsd013"  target="_blank">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="#"  target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
