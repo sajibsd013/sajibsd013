@@ -18,7 +18,7 @@
 
  ### Hi there I'm Sajib 👋 
  
- I strongly intend to deliver my skills and innovative ideas as a front-end developer. I want to work in a professional environment to cope up with the competitive world...
+ I strongly intend to deliver my skills and innovative ideas as a Software developer. I want to work in a professional environment to cope up with the competitive world...
   
 <br>
 
