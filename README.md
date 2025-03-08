@@ -32,7 +32,7 @@ I'm a dedicated **Software Engineer** with over 2 years of experience specializi
 
 ## 💼 Professional Experience
 
-**Software Developer**  
+**Software Engineer**  
 *Indetechs Software Limited, Dhaka, Bangladesh*  
 *June 2022 – Present*
 
@@ -43,7 +43,7 @@ and SEHERENE DSS.
 manufacturing, renewable energy, and environmental analysis. 
 - Participate in code reviews, ensuring adherence to best practices and coding standards.
 
-**Instructor, Programming with Python**  
+**Instructor (Programming with Python)**  
 *Digital Skills Training for Students, CSE, SUST*  
 *September 2024 – November 2024*
 
