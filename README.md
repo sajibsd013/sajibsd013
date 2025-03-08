@@ -1,7 +1,7 @@
 # Hi there, I'm Sajib Sutradhar! 👋
 
 <div id="header" align="center">
-  <img src="https://github.com/sajibsd013.png" alt="Profile Banner"  height="200">
+ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 
   <div id="badges">
