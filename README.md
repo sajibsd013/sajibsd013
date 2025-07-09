@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a dedicated **Software Engineer** with over 2 years of experience specializing in **Python** and **JavaScript**. My expertise lies in developing scalable web applications using frameworks like **Django** and **NuxtJS**. Currently, I'm contributing to innovative software solutions across various industrial sectors at **Indetechs Software Ltd**.
+I'm a dedicated **Software Engineer** with over 3 years of experience specializing in **Python** and **JavaScript**. My expertise lies in developing scalable web applications using frameworks like **Odoo**, **Django** and **NuxtJS**. Currently, I'm contributing to innovative software solutions across various industrial sectors at **Indetechs Software Ltd**.
 
 - 🌱 I’m currently pursuing an **M.Sc. in Computer Science & Engineering** at **Shahjalal University of Science & Technology (SUST), Bangladesh**.
 - 👯 I’m looking to collaborate on open-source projects related to web development and decision support systems.
