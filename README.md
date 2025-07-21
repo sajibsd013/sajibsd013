@@ -56,7 +56,7 @@ manufacturing, renewable energy, and environmental analysis.
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajibsd013&theme=default" alt="Profile Details" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajibsd013&theme=default" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajibsd013&theme=default" alt="Most Commit Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajibsd013&theme=default" alt="Most Commit Language" />
 </p>
 
 
